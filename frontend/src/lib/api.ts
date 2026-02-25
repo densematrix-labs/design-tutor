@@ -5,14 +5,12 @@ export interface TutorialResult {
   estimated_time: string
 }
 
-const API_BASE = import.meta.env.PROD ? '' : ''
-
 export async function analyzDesign(file: File, language: string): Promise<TutorialResult> {
   const formData = new FormData()
   formData.append('image', file)
   formData.append('language', language)
 
-  const response = await fetch(`${API_BASE}/api/v1/tutor/analyze`, {
+  const response = await fetch('/api/v1/tutor/analyze', {
     method: 'POST',
     body: formData,
   })
