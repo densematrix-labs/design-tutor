@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "Design Tutor",
+    "subtitle": "Sube una captura de pantalla de tu diseño y obtén un tutorial paso a paso de React. Aprende a convertir diseños en código."
+  },
+  "upload": {
+    "drag": "Suelta tu captura de diseño aquí",
+    "drop": "¡Suéltalo!",
+    "formats": "PNG, JPG, GIF, WebP • Máx 10MB",
+    "analyzing": "Analizando tu diseño...",
+    "wait": "Esto suele tardar 30-60 segundos",
+    "clickToChange": "Haz clic para subir otra imagen"
+  },
+  "features": {
+    "upload": {
+      "title": "Sube cualquier diseño",
+      "description": "Figma, Sketch, Adobe XD o solo una captura — cualquier imagen de diseño funciona."
+    },
+    "analyze": {
+      "title": "Análisis con IA",
+      "description": "Nuestra IA identifica componentes UI, patrones de diseño y detalles de estilo."
+    },
+    "learn": {
+      "title": "Tutorial paso a paso",
+      "description": "Obtén un tutorial de React personalizado con fragmentos de código y explicaciones."
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "Nuevo análisis",
+    "estimatedTime": "Tiempo estimado",
+    "difficulty": "Dificultad",
+    "components": "Componentes",
+    "detected": "detectados",
+    "componentsFound": "Componentes encontrados"
+  },
+  "error": {
+    "unknown": "Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "footer": {
+    "tagline": "Aprende React construyendo diseños reales"
+  }
+}

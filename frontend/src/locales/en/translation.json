@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "Design Tutor",
+    "subtitle": "Upload any design screenshot and get a step-by-step React tutorial. Learn how to turn designs into code."
+  },
+  "upload": {
+    "drag": "Drop your design screenshot here",
+    "drop": "Drop it!",
+    "formats": "PNG, JPG, GIF, WebP • Max 10MB",
+    "analyzing": "Analyzing your design...",
+    "wait": "This usually takes 30-60 seconds",
+    "clickToChange": "Click to upload a different image"
+  },
+  "features": {
+    "upload": {
+      "title": "Upload Any Design",
+      "description": "Figma, Sketch, Adobe XD, or just a screenshot — any design image works."
+    },
+    "analyze": {
+      "title": "AI Analysis",
+      "description": "Our AI identifies UI components, layout patterns, and styling details."
+    },
+    "learn": {
+      "title": "Step-by-Step Tutorial",
+      "description": "Get a personalized React tutorial with code snippets and explanations."
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "New Analysis",
+    "estimatedTime": "Estimated Time",
+    "difficulty": "Difficulty",
+    "components": "Components",
+    "detected": "detected",
+    "componentsFound": "Components Found"
+  },
+  "error": {
+    "unknown": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "tagline": "Learn React by building real designs"
+  }
+}

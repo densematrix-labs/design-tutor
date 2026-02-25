@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "Design Tutor",
+    "subtitle": "Laden Sie einen Design-Screenshot hoch und erhalten Sie ein Schritt-für-Schritt React-Tutorial. Lernen Sie, wie man Designs in Code umwandelt."
+  },
+  "upload": {
+    "drag": "Design-Screenshot hier ablegen",
+    "drop": "Loslassen!",
+    "formats": "PNG, JPG, GIF, WebP • Max 10MB",
+    "analyzing": "Design wird analysiert...",
+    "wait": "Dauert normalerweise 30-60 Sekunden",
+    "clickToChange": "Klicken, um ein anderes Bild hochzuladen"
+  },
+  "features": {
+    "upload": {
+      "title": "Beliebiges Design hochladen",
+      "description": "Figma, Sketch, Adobe XD oder einfach ein Screenshot — jedes Design-Bild funktioniert."
+    },
+    "analyze": {
+      "title": "KI-Analyse",
+      "description": "Unsere KI identifiziert UI-Komponenten, Layout-Muster und Styling-Details."
+    },
+    "learn": {
+      "title": "Schritt-für-Schritt Tutorial",
+      "description": "Erhalten Sie ein personalisiertes React-Tutorial mit Code-Snippets und Erklärungen."
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "Neue Analyse",
+    "estimatedTime": "Geschätzte Zeit",
+    "difficulty": "Schwierigkeit",
+    "components": "Komponenten",
+    "detected": "erkannt",
+    "componentsFound": "Gefundene Komponenten"
+  },
+  "error": {
+    "unknown": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut."
+  },
+  "footer": {
+    "tagline": "React lernen durch Erstellen echter Designs"
+  }
+}

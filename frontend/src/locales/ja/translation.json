@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "デザインチューター",
+    "subtitle": "デザインのスクリーンショットをアップロードして、ステップバイステップのReactチュートリアルを取得。デザインをコードに変換する方法を学びましょう。"
+  },
+  "upload": {
+    "drag": "デザインのスクリーンショットをここにドロップ",
+    "drop": "ドロップしてください！",
+    "formats": "PNG, JPG, GIF, WebP • 最大10MB",
+    "analyzing": "デザインを分析中...",
+    "wait": "通常30〜60秒かかります",
+    "clickToChange": "クリックして別の画像をアップロード"
+  },
+  "features": {
+    "upload": {
+      "title": "あらゆるデザインをアップロード",
+      "description": "Figma、Sketch、Adobe XD、またはスクリーンショット—あらゆるデザイン画像が使えます。"
+    },
+    "analyze": {
+      "title": "AI分析",
+      "description": "AIがUIコンポーネント、レイアウトパターン、スタイリングの詳細を識別します。"
+    },
+    "learn": {
+      "title": "ステップバイステップチュートリアル",
+      "description": "コードスニペットと説明付きのパーソナライズされたReactチュートリアルを取得。"
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "新しい分析",
+    "estimatedTime": "推定時間",
+    "difficulty": "難易度",
+    "components": "コンポーネント",
+    "detected": "個検出",
+    "componentsFound": "検出されたコンポーネント"
+  },
+  "error": {
+    "unknown": "エラーが発生しました。もう一度お試しください。"
+  },
+  "footer": {
+    "tagline": "実際のデザインを構築してReactを学ぶ"
+  }
+}

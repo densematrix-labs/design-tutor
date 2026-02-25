@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "设计教程",
+    "subtitle": "上传任意设计截图，获取手把手的 React 教程。学习如何将设计变成代码。"
+  },
+  "upload": {
+    "drag": "将设计截图拖放到这里",
+    "drop": "松开即可上传！",
+    "formats": "PNG, JPG, GIF, WebP • 最大 10MB",
+    "analyzing": "正在分析你的设计...",
+    "wait": "通常需要 30-60 秒",
+    "clickToChange": "点击上传其他图片"
+  },
+  "features": {
+    "upload": {
+      "title": "上传任意设计",
+      "description": "Figma、Sketch、Adobe XD，或者只是一张截图——任何设计图片都可以。"
+    },
+    "analyze": {
+      "title": "AI 分析",
+      "description": "我们的 AI 会识别 UI 组件、布局模式和样式细节。"
+    },
+    "learn": {
+      "title": "分步教程",
+      "description": "获取个性化的 React 教程，包含代码片段和详细解释。"
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "新分析",
+    "estimatedTime": "预计时间",
+    "difficulty": "难度",
+    "components": "组件",
+    "detected": "个已识别",
+    "componentsFound": "识别到的组件"
+  },
+  "error": {
+    "unknown": "出错了，请重试。"
+  },
+  "footer": {
+    "tagline": "通过构建真实设计学习 React"
+  }
+}

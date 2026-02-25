@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "디자인 튜터",
+    "subtitle": "디자인 스크린샷을 업로드하고 단계별 React 튜토리얼을 받아보세요. 디자인을 코드로 변환하는 방법을 배웁니다."
+  },
+  "upload": {
+    "drag": "디자인 스크린샷을 여기에 놓으세요",
+    "drop": "놓으세요!",
+    "formats": "PNG, JPG, GIF, WebP • 최대 10MB",
+    "analyzing": "디자인 분석 중...",
+    "wait": "보통 30-60초 정도 걸립니다",
+    "clickToChange": "다른 이미지를 업로드하려면 클릭하세요"
+  },
+  "features": {
+    "upload": {
+      "title": "모든 디자인 업로드",
+      "description": "Figma, Sketch, Adobe XD 또는 스크린샷 — 어떤 디자인 이미지도 가능합니다."
+    },
+    "analyze": {
+      "title": "AI 분석",
+      "description": "AI가 UI 컴포넌트, 레이아웃 패턴, 스타일링 세부 사항을 식별합니다."
+    },
+    "learn": {
+      "title": "단계별 튜토리얼",
+      "description": "코드 스니펫과 설명이 포함된 맞춤형 React 튜토리얼을 받아보세요."
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "새 분석",
+    "estimatedTime": "예상 시간",
+    "difficulty": "난이도",
+    "components": "컴포넌트",
+    "detected": "개 감지됨",
+    "componentsFound": "감지된 컴포넌트"
+  },
+  "error": {
+    "unknown": "문제가 발생했습니다. 다시 시도해 주세요."
+  },
+  "footer": {
+    "tagline": "실제 디자인을 구축하며 React 배우기"
+  }
+}

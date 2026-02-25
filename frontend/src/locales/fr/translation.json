@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "title": "Design Tutor",
+    "subtitle": "Téléchargez une capture d'écran de design et obtenez un tutoriel React étape par étape. Apprenez à transformer des designs en code."
+  },
+  "upload": {
+    "drag": "Déposez votre capture de design ici",
+    "drop": "Déposez !",
+    "formats": "PNG, JPG, GIF, WebP • Max 10 Mo",
+    "analyzing": "Analyse de votre design...",
+    "wait": "Cela prend généralement 30-60 secondes",
+    "clickToChange": "Cliquez pour télécharger une autre image"
+  },
+  "features": {
+    "upload": {
+      "title": "Téléchargez tout design",
+      "description": "Figma, Sketch, Adobe XD ou juste une capture d'écran — toute image de design fonctionne."
+    },
+    "analyze": {
+      "title": "Analyse IA",
+      "description": "Notre IA identifie les composants UI, les modèles de mise en page et les détails de style."
+    },
+    "learn": {
+      "title": "Tutoriel étape par étape",
+      "description": "Obtenez un tutoriel React personnalisé avec des extraits de code et des explications."
+    }
+  },
+  "tutorial": {
+    "newAnalysis": "Nouvelle analyse",
+    "estimatedTime": "Temps estimé",
+    "difficulty": "Difficulté",
+    "components": "Composants",
+    "detected": "détectés",
+    "componentsFound": "Composants trouvés"
+  },
+  "error": {
+    "unknown": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "footer": {
+    "tagline": "Apprenez React en construisant de vrais designs"
+  }
+}
